@@ -43,14 +43,14 @@ Part 4: Reflection & Workflow Diagram (10 points)
   Ethical Focus: Patient privacy, fairness, and compliance with healthcare data regulations.
 
 👥 Group Members
-George Omondi Alando- Team Leader
-Maureen Gathoni
-Billclinton Onyango
-Eric Midida
-Abraham Sitori
+George Omondi Alando- Team Leader,
+Maureen Gathoni,
+Billclinton Onyango,
+Eric Midida,
+Abraham Sitori,
 Francis Promise
 
-Reflection
+Reflection:
 This assignment strengthened our understanding of how to structure AI projects—from defining clear objectives to addressing ethical challenges in deployment.  
 With more time, we would integrate real-world data and automate model retraining for improved accuracy.
 
